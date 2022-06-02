@@ -5,7 +5,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .header{
-    background-image: url("/images/background01.jpg");
+    background-image: url("./images/background01.jpg");
     background-size: 1190px 300px;
     box-shadow: inset 1000px 1000px rgba(0, 0, 0, 0.5);
 }
